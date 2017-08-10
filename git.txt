@@ -1,0 +1,3 @@
+>navega até arquivo
+git init
+git remote add origin <link repositorio>
