@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
 #vizinhos, configuração do tabuleiro
 vizinhos = ({
                     'd8': ['d7', 'd9', 'c8'], \

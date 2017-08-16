@@ -2,5 +2,5 @@
 git init
 git remote add origin <link repositorio>
 git add *
-git commit -m "Adicionando codigos"
+git commit -m "Adicionando codigos SIEGE"
 git push origin master
